@@ -13,7 +13,7 @@
   
   - Novice GameDeveloper
   
-  - Future backend developer
+  - Future Backend Developer
   
   - Like to travel around the corners of my country
 
