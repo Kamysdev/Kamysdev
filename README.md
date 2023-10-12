@@ -9,7 +9,7 @@
 
 ### 💜 About Me:
   
-  - SibSUTIS 1-st course student, who love programming
+  - SibSUTIS 2-nd course student, who love programming
   
   - Novice GameDeveloper
   
